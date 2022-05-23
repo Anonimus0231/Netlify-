@@ -10,10 +10,6 @@ section {
     align-items: center;
 }
 
-.img {
-
-}
-
 .card__container {
     background-color: rgba(155, 133, 101, 0.933);
     border: 1px solid rgba(94, 93, 92, 0.986);
